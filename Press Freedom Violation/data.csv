@@ -1,0 +1,24 @@
+District,Topographical Region,Administrative Region,Month,Media Type,Gender,Number of Violations,Violation Type
+Sindhupalchowk,Hilly,Central,July,Weekly,Male,1,Seizure
+Sindhupalchowk,Hilly,Central,July,FM,Male,1,Attack
+Palpa,Hilly,Western,July,Daily,Male,1,Newspaper Burnt
+Solukhumbu,Mountaineous,Eastern,July,FM,Male,1,Attack
+Dailekh,Hilly,Far-Western,July,Daily,Male,1,Attack
+Kathmandu,Hilly,Central,July,TV,Male,1,Journo Sacked
+Kathmandu,Hilly,Central,July,TV,Female,1,Journo Sacked
+Kathmandu,Hilly,Central,July,TV,Male,1,Manhandle
+Sunsari,Tarai,Eastern,April-June,TV,Male,1,Attack
+Tanahu,Hilly,Western,April-June,FM,Male,1,Journo Sacked
+Sunsari,Tarai,Eastern,April-June,Daily,Male,1,Death Threat
+Kathmandu,Hilly,Central,April-June,All,In-group,1,Journo Barred
+Kathmandu,Hilly,Central,April-June,FM,Male,1,Injury
+Kathmandu,Hilly,Central,April-June,FM,Male,1,Journo Sacked
+Kathmandu,Hilly,Central,April-June,All,In-group,1,Journo Barred
+Kathmandu,Hilly,Central,April-June,News Agency,Male,1,Attack
+Kathmandu,Hilly,Central,April-June,Daily,Male,1,Journo Barred
+Kavre,Hilly,Central,April-June,TV,-,1,Press Vehicle Torched
+Kathmandu,Hilly,Central,April-June,Online portal,Male,1,Death Threat
+Bhaktapur,Hilly,Central,April-June,TV,Female,1,Attack
+Kathmandu,Hilly,Central,April-June,Online portal,Male,2,Arrest
+Mugu,Mountaineous,Mid-Western,April-June,Daily,Male,1,Threat
+,,,April-June,All,In-group,40,
